@@ -1,0 +1,1 @@
+After installing `npm install`, just open two terminals. Navigate one to `backend` and one to `frontend`. Run `npm run dev` on both, and then you should be live on `localhost:3000`.
